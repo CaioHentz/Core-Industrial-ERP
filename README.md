@@ -14,17 +14,6 @@ O foco do projeto é fornecer uma solução escalável e moderna para gestão em
 - **Banco de Dados:** SQLite (desenvolvimento) / PostgreSQL (produção)  
 - **Outras ferramentas:** Git, Virtualenv
 
-## Estrutura do Projeto
-
-```
-core/
-├── core/               # Configurações do Django
-├── app/                # Aplicação principal
-├── static/             # Arquivos estáticos (CSS, JS, imagens)
-├── templates/          # Templates HTML
-└── manage.py           # Script de gerenciamento Django
-```
-
 ## Funcionalidades
 
 - Painel inicial com KPIs e atalhos rápidos
@@ -68,7 +57,4 @@ core/
    http://127.0.0.1:8000
    ```
 
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
